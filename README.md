@@ -1,4 +1,4 @@
-# Honors-Thesis-Extension--Predicting-Trade-from-Treaties
+# Honors Thesis Predicting Trade from Treaties (DCAs) 
 Predicting Trade Densities from Defense Cooperation Agreements, which are a specific type of military agreeement. 
 
 The datasets used come from the Correlates of War Project (https://correlatesofwar.org/data-sets/). 
